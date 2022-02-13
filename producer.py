@@ -4,10 +4,10 @@ import logging
 
 """API ACCESS KEYS"""
 
-consumerKey = "CPlzmdasusAYmvMzewE8eXO7j"
-consumerSecret = "FgzC3xzpfjTmJSFJTAQ53eifa4OcILISI1d1f84w3CO2PGmVSV"
-accessToken = "1483563200448806913-GwKIUAC9kIsxF3QGUWq3Ui5CnsT0QN"
-accessTokenSecret = "KGiOtYEZ684teWvQK92x3Fm5sQikmRpTdg95PNE4297bO"
+consumerKey = "XXXX"
+consumerSecret = "XXXX"
+accessToken = "XXX-XXX"
+accessTokenSecret = "XXXX"
 
 producer = KafkaProducer(bootstrap_servers='localhost:9092')
 search_term = 'Bitcoin'
